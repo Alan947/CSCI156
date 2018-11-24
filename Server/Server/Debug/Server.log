@@ -1,7 +1,5 @@
 ﻿  main.cpp
-c:\users\seamu\documents\github\csci156\server\server\main.cpp(51): warning C4551: function call missing argument list
-c:\users\seamu\documents\github\csci156\server\server\main.cpp(56): warning C4326: return type of 'main' should be 'int' instead of 'void'
-c:\users\seamu\documents\github\csci156\server\server\main.cpp(90): warning C4018: '<': signed/unsigned mismatch
-c:\users\seamu\documents\github\csci156\server\server\main.cpp(108): warning C4018: '<': signed/unsigned mismatch
-c:\users\seamu\documents\github\csci156\server\server\main.cpp(53): warning C4715: 'loadStoreData': not all control paths return a value
+c:\users\seamu\documents\github\csci156\server\server\main.cpp(34): warning C4551: function call missing argument list
+c:\users\seamu\documents\github\csci156\server\server\main.cpp(40): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\seamu\documents\github\csci156\server\server\main.cpp(68): warning C4018: '<': signed/unsigned mismatch
   Server.vcxproj -> C:\Users\Seamu\Documents\GitHub\CSCI156\Server\Debug\Server.exe
